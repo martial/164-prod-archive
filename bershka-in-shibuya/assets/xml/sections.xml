@@ -1,0 +1,51 @@
+<!DOCTYPE root>
+
+<root>
+
+
+	<section id="HOME">
+		<name>
+			<value lang="EN"><![CDATA[HOME]]></value>
+			<value lang="JP"><![CDATA[ホーム]]></value>
+		</name>
+		<classPath></classPath>
+	</section>
+
+
+	<section id="ABOUT_US">
+		<name>
+			<value lang="EN"><![CDATA[ABOUT US]]></value>
+			<value lang="JP"><![CDATA[会社案内]]></value>
+		</name>
+		<classPath>assets/sections/about/</classPath>
+	</section>
+
+	<section id="GUEST">
+		<name>
+			<value lang="EN"><![CDATA[GUESTS]]></value>
+			<value lang="JP"><![CDATA[アーティスト]]></value>
+		</name>
+		<classPath>assets/sections/guest/</classPath>
+	</section>
+
+
+	<section id="CONTEST">
+		<name>
+			<value lang="EN"><![CDATA[CONTEST]]></value>
+			<value lang="JP"><![CDATA[コンテスト]]></value>
+		</name>
+		<classPath>assets/sections/contest/</classPath>
+	</section>
+
+<section id="GALLERY">
+		<name>
+			<value lang="EN"><![CDATA[GALLERY]]></value>
+			<value lang="JP"><![CDATA[ギャラリー]]></value>
+		</name>
+		<classPath>assets/sections/gallery/</classPath>
+	</section>
+
+
+
+
+</root>

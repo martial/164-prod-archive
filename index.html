@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>164-prod archive</title>
+<meta name="description" content="Flash work from 164-prod.com (2007–2011), playing again in the browser with Ruffle.">
+<style>
+  :root { --bg: #0d0e10; --ink: #ecedef; --mute: #9aa1a9; --line: #26292e; --accent: #e8e033; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 -apple-system, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 920px; margin: 0 auto; padding: 56px 16px 72px; }
+  .mark { display: flex; gap: 6px; margin-bottom: 18px; }
+  .mark i { width: 16px; height: 16px; background: var(--ink); display: block; }
+  .mark i:nth-child(1) { border-radius: 50%; }
+  .mark i:nth-child(3) { clip-path: polygon(50% 0, 100% 100%, 0 100%); }
+  h1 { font-size: clamp(32px, 6vw, 52px); line-height: 1; margin: 0 0 12px; letter-spacing: -0.02em; }
+  .lede { color: var(--mute); margin: 0 0 40px; max-width: 60ch; }
+  a.piece { display: block; color: inherit; text-decoration: none; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  a.piece:hover { border-color: var(--mute); }
+  a.piece img { display: block; width: 100%; height: auto; }
+  .info { padding: 16px 18px 18px; }
+  .info h2 { margin: 0 0 4px; font-size: 20px; }
+  .info .meta { color: var(--mute); font-size: 14px; margin: 0 0 10px; }
+  .info ul { margin: 0; padding-left: 18px; color: var(--mute); font-size: 14px; }
+  .info b { color: var(--accent); font-weight: 600; }
+  footer { margin-top: 40px; color: var(--mute); font-size: 13px; }
+  footer a { color: var(--ink); }
+</style>
+</head>
+<body>
+<main>
+  <div class="mark" aria-hidden="true"><i></i><i></i><i></i></div>
+  <h1>164-prod archive</h1>
+  <p class="lede">Flash work from 164-prod.com, 2007–2011, playing again in the browser thanks to Ruffle, an open-source Flash emulator.</p>
+
+  <a class="piece" href="bershka-in-shibuya/">
+    <img src="bershka-in-shibuya.jpg" alt="Bershka in Shibuya: 3D scene with a record, a couple, the Shibuya skyline and a duck" width="1200" height="750">
+    <div class="info">
+      <h2>Bershka in Shibuya, Tokyo</h2>
+      <p class="meta">Store opening site, March 2011 · with fiveisblue · Away3D</p>
+      <ul>
+        <li>Click once for sound, then drag to orbit around the scene.</li>
+        <li>Hold <b>D</b> and press <b>K</b>.</li>
+        <li>Rebuilt from its source so Ruffle draws the 3D textures and camera correctly.</li>
+      </ul>
+    </div>
+  </a>
+
+  <footer>Played with <a href="https://ruffle.rs">Ruffle</a> (MIT / Apache-2.0). Client work shown as a portfolio archive.</footer>
+</main>
+</body>
+</html>

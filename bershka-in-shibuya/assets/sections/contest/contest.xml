@@ -1,0 +1,40 @@
+<!DOCTYPE root>
+
+<root>
+
+	<follow>
+		<name>
+			<value lang="EN"><![CDATA[FOLLOW]]></value>
+			<value lang="JP"><![CDATA[FOLLOW]]></value>
+		</name>
+	</follow>
+
+	<howto>
+
+		<data>
+
+			<item>
+				<name>
+					<value lang="EN"><![CDATA[How to enter]]></value>
+					<value lang="JP"><![CDATA[Space Ibiza]]></value>
+				</name>
+				<descr>
+					<value lang="EN"><![CDATA[<guestTextBoxContent>Space in its current form began in 1989 when Pepe Rosello, Ibiza nightclub owner since 1963, took over the establishment, which in the four years since it was built had housed a conference hall with a discotheque. The opening policy was from the beginning dovetailed to fit the Spanish licensing laws which state that an establishment must close for at least two hours a day. The first DJs to shape the venue into the type of nightclub it currently is were Alex P and Brandon Block — two British club DJs/Producers and residents of Sunday Space Terrace — Space's outdoor terrace where airliners roar overhead. In fact, this open terrace and the roaring sound of the airliners breaking through the booming dance music has become one of the club's defining features. Since Amnesia and Privilege have had to encase their open-air dance-floors due to noise complaints from their neighbours, Space remains one of the few venues where club-goers can have this experience, and the crowd's greeting of the arriving aircraft has also become a ritual among the club's patrons. Other resident DJs/Producers that in large part are responsible for the club's popularity include Reche, Jose de Divina and Jon Ulysses. Space releases compilations every year via the Azuli label.]]></value>
+					<value lang="JP"><![CDATA[<guestTextBoxContent_jp>現在の形の空間はペRoselloは、1963年以来、イビサのナイトクラブのオーナー、4年間でそれがディスコとの会議ホールを収容した内蔵されて以来確立、引き継いだ時に1989年に始まりました。開放政策は、設立には、少なくとも1日2時間のため終了する必要がありますことを述べるスペインライセンスの法律に合うように合致し、最初からだった。スペースの屋外テラス旅客機の轟音のオーバーヘッド - /プロデューサー、日曜日空間テラスの住民の2つのイギリスのクラブDJ - アレックスPとして、Brandonブロックされた最初のDJが、それが現在ナイトクラブの型に会場を形成する。実際には、このオープンテラス、活況を呈しダンスミュージックを突破旅客機の轟音は、クラブの決定的な特徴の一つとなっている。健忘および権限は、隣人から騒音苦情のために、オープンエアのダンスフロアを包むしなければならなかったので、宇宙には、クラブの観客は、この経験を持つことができるいくつかの会場の一つである、群衆のは、挨拶到着航空機のもなっているクラブの常連客の間での儀式。その他のレジデントDJ /大部分のクラブの人気に責任があるプロデューサーは、リッシェ、ホセデディビーナとJonユリシーズが含まれています。スペースがAzuliラベルを介して、毎年のコンパイルをリリースします。]]></value>
+				</descr>
+				<pictures folder="assets/sections/guest/pictures/guest01/">
+					<url>space_temp_img01.jpg</url>
+					<url>space_temp_img02.jpg</url>
+					<url>space_temp_img03.jpg</url>
+					<url>space_temp_img04.jpg</url>
+					<url>space_temp_img05.jpg</url>
+					<url>space_temp_img06.jpg</url>
+				</pictures>
+			</item>
+		</data>
+	</howto>
+
+
+
+
+</root>

@@ -1,0 +1,64 @@
+p {
+	color: #000000;
+}
+
+header_btn {
+	color: #ffffff;
+	font-size: 11px;
+	font-family: helvetica_regular;
+}
+
+header_btn_jp {
+	color: #ffffff;
+	font-size: 11px;
+	font-family: Hiragino Kaku Gothic Stdn W8;
+}
+
+menu_btn_jp {
+	color: #ffffff;
+	font-size: 16px;
+	font-family: Hiragino Kaku Gothic Stdn W8;
+}
+
+
+menu_btn {
+	color: #ffffff;
+	font-size: 16px;
+	font-family: district_light;
+}
+
+menu_item {
+	color: #ffffff;
+	font-size: 68px;
+	font-family: futura_cd_extrabold;
+}
+
+
+toolTip {
+	color: #ffffff;
+	font-size: 15px;
+	font-family: georgia_italic;
+	font-style:italic;
+}
+
+
+title_3d1 {
+	color: #000000;
+	font-size: 15px;
+	font-family: georgia_italic;
+	font-style:italic;
+}
+
+title_3d1_jp {
+	color: #000000;
+	font-size: 15px;
+	font-family: Hiragino Kaku Gothic Stdn W8;
+	font-style:italic;
+}
+
+title_3d2 {
+	color: #ffffff;
+	font-size: 32px;
+	font-family: futura_cd_extrabold;
+}
+

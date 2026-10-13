@@ -1,0 +1,68 @@
+<!DOCTYPE root>
+
+	<!--
+		Content XML Related to Main.CONTENT Bulk loader instance. The name is
+		the id of the asset. You can put both online and local URLs For
+		example, get acces to content by
+		Main.CONTENT.getXML("content-news-xml");
+	-->
+
+<root>
+
+	<content folder="assets/">
+
+
+		<item name="fonts-swf" url="swf/fonts.swf"></item>
+		<item name="main-css" url="css/main.css"></item>
+
+		<item name="dict-xml" url="xml/dictionnary.xml"></item>
+		<item name="music-xml" url="xml/music.xml"></item>
+		<item name="sections-xml" url="xml/sections.xml"></item>
+		<item name="bershkaLikes-xml" url="xml/bershkaLikes.xml"></item>
+
+		<item name="spaceTexture-bmp" url="bitmap/stars.png"></item>
+		<item name="triangleTexture-bmp" url="bitmap/triangleTexture.png"></item>
+		<item name="back-bmp" url="bitmap/back.jpg"></item>
+
+		<item name="header_pattern_tile-bmp" url="bitmap/header_pattern_tile.png"></item>
+
+		<item name="bubble-bmp" url="bitmap/home_bubble.png"></item>
+
+		<item name="mainLogo-bmp" url="bitmap/main_logo.png"></item>
+		<item name="disc-bmp" url="bitmap/discTexture.png"></item>
+		<item name="deer-bmp" url="bitmap/deerTexture.png"></item>
+		<item name="deerBack-bmp" url="bitmap/deerBackTexture.png"></item>
+		<item name="girl-bmp" url="bitmap/home_collage01.png"></item>
+		<item name="speakerTexture-bmp" url="bitmap/home_speaker_flat.png"></item>
+		<item name="stairTexture-bmp" url="bitmap/stairTexture.jpg"></item>
+		<item name="dudeTexture-bmp" url="bitmap/home_dude2.png"></item>
+
+		<item name="duck-bmp" url="bitmap/duck.png"></item>
+
+		<item name="sound-data" isBinary="true" url="xml/martial.data"></item>
+
+		<item name="diagonalShape-bmp" url="bitmap/diagonalShape.png"></item>
+
+		<item name="arrows-bmp" url="bitmap/arrows.png"></item>
+
+	</content>
+
+	<loadqueue>
+
+		<item name="japFont" url="swf/JapaneseFont.swf"></item>
+
+	</loadqueue>
+
+
+	<!--
+		This items will be redirected with in the folder with the FlashVars
+		lang, to reduce the loading on load. For example
+		assets/ES/imgs/background/bg.jpg. If you want to make a content
+		mulitlang, just declare it in the following node and be sure that It
+		will be in the right folder into assets.
+	-->
+
+	<multilang folder="assets/"></multilang>
+
+
+</root>

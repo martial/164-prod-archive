@@ -1,0 +1,121 @@
+<!DOCTYPE root>
+
+
+<root>
+
+
+	<languages>
+		<item>EN</item>
+		<item>JP</item>
+	</languages>
+
+	<dict>
+
+		<item id="EN">
+			<value lang="EN"><![CDATA[<header_btn>English]]></value>
+			<value lang="JP"><![CDATA[<header_btn>English]]></value>
+		</item>
+
+		<item id="JP">
+			<value lang="EN"><![CDATA[<header_btn_jp>日本語]]></value>
+			<value lang="JP"><![CDATA[<header_btn_jp>日本語]]></value>
+		</item>
+
+		<item id="language">
+			<value lang="EN"><![CDATA[<header_btn>Language]]></value>
+			<value lang="JP"><![CDATA[<header_btn_jp>言語]]></value>
+		</item>
+
+		<item id="sound-on">
+			<value lang="EN"><![CDATA[<header_btn>Music on]]></value>
+			<value lang="JP"><![CDATA[<header_btn>Music off]]></value>
+		</item>
+
+		<item id="sound-off">
+			<value lang="EN"><![CDATA[<header_btn>Music off]]></value>
+			<value lang="JP"><![CDATA[<header_btn>Music off]]></value>
+		</item>
+
+		<item id="menu">
+			<value lang="EN"><![CDATA[<menu_btn>MENU]]></value>
+			<value lang="JP"><![CDATA[<menu_btn_jp>あなた欠乏]]></value>
+		</item>
+
+		<item id="mainTitle">
+			<value lang="EN"><![CDATA[<title_3d1><italic>a new fashion<br><title_3d1>a new trend, a new way]]></value>
+			<value lang="JP"><![CDATA[<title_3d1_jp>新しいファッション<br><title_3d1_jp>新しいトレンド]]></value>
+		</item>
+
+		<item id="mainSubTitle">
+			<value lang="EN"><![CDATA[<title_3d2>BERSHKA<br><title_3d2>IN<br><title_3d2>SHIBUYA]]></value>
+			<value lang="JP"><![CDATA[<title_3d2>BERSHKA<br><title_3d2>IN<br><title_3d2>SHIBUYA]]></value>
+		</item>
+
+		<item id="follow-us">
+			<value lang="EN"><![CDATA[<header_btn>Follow us]]></value>
+			<value lang="JP"><![CDATA[<header_btn_jp>フォローする]]></value>
+		</item>
+
+		<item id="facebook">
+			<value lang="EN"><![CDATA[<header_btn>Facebook]]></value>
+			<value lang="JP"><![CDATA[<header_btn>Facebook]]></value>
+		</item>
+
+		<item id="twitter">
+			<value lang="EN"><![CDATA[<header_btn>Twitter]]></value>
+			<value lang="JP"><![CDATA[<header_btn>Twitter]]></value>
+		</item>
+
+		<item id="copyright">
+			<value lang="EN"><![CDATA[<footerCopyrightTitle>BERSHKA SHIBUYA<footerCopyright> 1-4F ZERO GATE, 16-9 Udagawa-cho, Shibuya-ku, Tokyo 150-0042]]></value>
+			<value lang="JP"><![CDATA[<footerCopyright_jp>BERSHKA 渋谷店 〒150-0042 東京都渋谷区宇田川町16-9 ゼロゲート1-4F]]></value>
+		</item>
+
+		<item id="footerLinks">
+			<value lang="EN"><![CDATA[<footerLinks><a href='http://www.bershka.com ' target="_blank" >BERSHKA / GRUPO INDITEX </a>| (C) Copyright Bershka 2010 | <a href='http://www.bershka.com/contacto.php' target="_blank">contact us</a>]]></value>
+			<value lang="JP"><![CDATA[<footerLinks_jp><a href='http://www.bershka.com' target="_blank">BERSHKA / GRUPO INDITEX </a>| (C) Copyright Bershka 2010 | <a href='http://www.bershka.com/contacto.php' target="_blank" >お問い合わせ</a>]]></value>
+		</item>
+
+		<item id="polygon">
+			<value lang="EN"><![CDATA[
+<polygon>NEW STORE<br>
+OPENING<br>
+
+<font size="18" ></font><font color="#e7e92c" size="18" >MARCH 2<font  letterSpacing="-3">011</font></font>]]></value>
+			<value lang="JP"><![CDATA[<polygon>NEW STORE<br>
+OPENING<br>
+<br>]]></value>
+		</item>
+
+		<item id="polygon2">
+			<value lang="EN"><![CDATA[
+<polygonBodyText><font color="#8a8a8a" size="9">JOIN US FOR OUR OPENING<br>
+OF OUR FIRST STORE IN<br>
+JAPAN. SEE YOU THERE!</font>]]></value>
+			<value lang="JP"><![CDATA[<polygonBodyText_jp>
+<font color="#e7e92c" size="18">2011年3月
+</font><br>
+<font color="#8a8a8a" size="11">日本1号店のオープン<br>
+に参加しよう！</font>]]></value>
+		</item>
+
+
+
+		<item id="view-all">
+			<value lang="EN"><![CDATA[<header_btn>view all pictures]]>
+			</value>
+			<value lang="JP"><![CDATA[]]>
+			</value>
+		</item>
+		
+		<item id="twitter_load">
+			<value lang="EN"><![CDATA[<twitterDate_text>Loading tweets...]]>
+			</value>
+			<value lang="JP"><![CDATA[]]>
+			</value>
+		</item>
+
+	</dict>
+
+
+</root>

@@ -1,0 +1,23 @@
+<!DOCTYPE root>
+
+	<!--
+		Content XML Related to Main.CONTENT Bulk loader instance. The name is
+		the id of the asset. You can put both online and local URLs For
+		example, get acces to content by
+		Main.CONTENT.getXML("content-news-xml");
+	-->
+
+<root>
+
+	<content folder="assets/sections/about/">
+
+		<item name="about-css" url="about.css"></item>
+		<item name="about-xml" url="about.xml"></item>
+
+
+	</content>
+
+
+
+
+</root>
